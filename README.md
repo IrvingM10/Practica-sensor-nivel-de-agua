@@ -225,6 +225,7 @@ Cuando haya funcionado el display te mandará las siguientes imagenes en retardo
 
 ![image](https://github.com/user-attachments/assets/af8cf491-a45d-4251-8ecd-4af5b0b972dc)
 
+![image](https://github.com/user-attachments/assets/c9f2ebdc-c1bc-4ea3-9b7d-99cc744d3d58)
 
 
 
