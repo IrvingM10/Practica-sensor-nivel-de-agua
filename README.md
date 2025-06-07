@@ -223,6 +223,7 @@ Cuando haya funcionado el display te mandará las siguientes imagenes en retardo
 
 ![image](https://github.com/user-attachments/assets/cc39a02b-7075-4186-9aa5-0b9dd40238fd)
 
+![image](https://github.com/user-attachments/assets/af8cf491-a45d-4251-8ecd-4af5b0b972dc)
 
 
 
