@@ -221,4 +221,14 @@ delay (2000);
 ## Resultados
 Cuando haya funcionado el display te mandará las siguientes imagenes en retardos de dos segundos
 
+![image](https://github.com/user-attachments/assets/cc39a02b-7075-4186-9aa5-0b9dd40238fd)
+
+
+
+
+
+
+
+
+
 
