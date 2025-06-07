@@ -227,6 +227,12 @@ Cuando haya funcionado el display te mandará las siguientes imagenes en retardo
 
 ![image](https://github.com/user-attachments/assets/c9f2ebdc-c1bc-4ea3-9b7d-99cc744d3d58)
 
+![image](https://github.com/user-attachments/assets/648157ff-725e-4e72-8848-825c36cc6b39)
+
+## Créditos
+Desarrollado por Irving Cardoso estudiante de Ingeniería Mecánica
+
+https://github.com/IrvingM10/Practica-sensor-nivel-de-agua/edit/main/README.md
 
 
 
