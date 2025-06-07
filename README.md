@@ -207,4 +207,18 @@ delay (2000);
 
 3.Hacer la conexión como se muestra en la siguiente imagen
 
+![image](https://github.com/user-attachments/assets/2bc12fbd-0b65-4777-bb81-1ac1240fddea)
+
+## Instrucciones de operacion
+1.Iniciar el simulador
+
+2.Visualizar los datos en la LCD
+
+3.Colocar la distancia dando doble click en el sensor ultrasonico 
+
+4.Dependiendo de las condiciones de distancia que se dieron en el if irán encenciendo los leds y se mostrará en el display el nivel
+
+## Resultados
+Cuando haya funcionado el display te mandará las siguientes imagenes en retardos de dos segundos
+
 
