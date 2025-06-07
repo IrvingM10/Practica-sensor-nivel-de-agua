@@ -202,7 +202,9 @@ delay (2000);
 ```
 2.Instalar la librería LiquidCrystal I2C como se muestra en la siguiente imagen
 
+![image](https://github.com/user-attachments/assets/cd10587a-3148-4899-b414-56133ed7e439)
 
 
 3.Hacer la conexión como se muestra en la siguiente imagen
+
 
